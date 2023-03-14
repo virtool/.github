@@ -1,3 +1,10 @@
+# Important
+
+**Virtool container images will no longer be published to Dockerhub starting March 31, 2023**.
+
+Ensure you are pulling images from the GitHub Container Registry (`ghcr.io`).
+
+
 # Getting Started
 
 See the [Virtool documentation](https://www.virtool.ca/docs/manual/start/installation/) to get started with the latest
