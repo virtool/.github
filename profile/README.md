@@ -4,6 +4,9 @@
 
 Ensure you are pulling images from the GitHub Container Registry (`ghcr.io`).
 
+# Support
+
+[Join us on Discord](https://discord.gg/rwmM7ZHNp4).
 
 # Getting Started
 
