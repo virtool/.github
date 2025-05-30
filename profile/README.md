@@ -15,5 +15,5 @@ Virtool 5 and later will comprise multiple containerized services that need to r
 # Support
 
 * [Join us on Discord](https://discord.gg/rwmM7ZHNp4).
-* [Create an issue on Github](https://github.com/virtool/virtool/issues) to report bugs, request features, make suggestions, or ask questions.
+* [Create an issue on Github](https://github.com/virtool/issues/issues/choose) to report bugs, request features, make suggestions, or ask questions.
 
